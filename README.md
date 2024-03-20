@@ -10,7 +10,9 @@
 - https://nordvpn.com/cybersecurity/glossary/nat-traversal/
 
 # sch:
-- https://www.google.com/search?q=nat+traversal
+- https://www.google.com/search?q=NAT+traversal
+- https://www.google.com/search?q=NAT+peer+to+peer
+- https://www.google.com/search?q=NAT+peer+to+peer+connection
 - https://www.google.com/search?q=persistent+connection+through+NAT
 - https://www.google.com/search?q=persistent+connection+through+NAT+router
 - https://www.google.com/search?q=nat+piercing&oq=nat+piercing
