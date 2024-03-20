@@ -19,3 +19,4 @@
 
 # Discuss:
 - https://tor.stackexchange.com/questions/22873/nat-piercing-in-tor
+- https://stackoverflow.com/questions/37367769/how-nat-traversal-works-in-case-of-peer-to-peer-protocols-like-bittorrent
